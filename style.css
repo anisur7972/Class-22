@@ -1,0 +1,95 @@
+
+/* Common Css Start  */
+
+body,h1,h2,h3,h4,h5,h6,p,span{
+    font-family: 'Roboto', sans-serif;
+}
+.custom-bg-color{
+    background-color: #f9f9ff;
+}
+/* Common Css End */
+/* Header Section Css Start  */
+
+.logo img {
+    width: 100px;
+}
+/* Header Section Css End */
+/* Bio Section Css Start  */
+
+.bio-left {
+    margin-top: 150px;
+}
+.bio-left h5 {
+    font-weight: 400;
+}
+.bio-left a {
+    text-decoration: none;
+    display: inline-block;
+    background-color: #8490ff;
+    color: #fff;
+    padding: 13px 30px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+/* Bio Section Css End */
+
+/* About Section Css Start  */
+.about-section{
+    background-color: #fff;
+}
+.about-right {
+    margin: 60px 0 0 60px;
+}
+.about-right p {
+    font-size: 14px;
+    margin-bottom: 0;
+}
+.about-right a{
+    text-decoration: none;
+    display: inline-block;
+    background-color: #8490ff;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: 300;
+}
+/* About Section Css End */
+
+/* Counter Section Css Start  */
+.counter-section{
+    background-color: #8490ff;
+    padding: 100px 0;
+}
+/* Counter Section Css End */
+
+/* Pricing Section Css Start  */
+.Card{
+    background-color: #fff;
+}
+.Card h4{
+    background-color: #f9f9ff;
+}
+/* Pricing Section Css End */
+/* Service Section Css Start   */
+.s-section-item img {
+    width: 100px;
+    margin: -60px 0 0 20px;
+}
+.s-section-item-bio h3{
+    margin-bottom: 0;
+}
+/* Service Section Css End  */
+
+/* Form Section Css Start  */
+.form{
+    background-color: #fff;
+}
+.t-right {
+    margin: 100px 0 0 50px;
+}
+/* Form Section Css End */
+/* Fotter Section Css Start  */
+footer{
+    background-color: #04091e;
+}
+/* Fotter Section Css End */
